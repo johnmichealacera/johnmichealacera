@@ -1,6 +1,6 @@
 # 👋 Hi, I'm John Micheal Acera
 
-I'm a **Software Developer**, **Educator**, and **Builder** from the Philippines 🇵🇭
+I'm a **Software Developer** and **Builder** from the Philippines 🇵🇭
 
 I love creating tools that make education and life easier — especially for small communities, local schools, and real-world users. My journey started with simple games and todo apps, and has grown into building full-stack systems for civic engagement, learning, and local development.
 
