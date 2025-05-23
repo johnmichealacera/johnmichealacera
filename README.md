@@ -2,7 +2,7 @@
 
 I'm a **Software Developer** and **Builder** from the Philippines 🇵🇭
 
-I love creating tools that make education and life easier — especially for small communities, local schools, and real-world users. My journey started with simple games and todo apps, and has grown into building full-stack systems for civic engagement, learning, and local development.
+I love creating tools that make life easier — especially for real-world users. My journey started with simple games and todo apps, and has grown into building full-stack systems for civic engagement, learning, and local development.
 
 ### 🧠 What I’m Working On
 - 🤖 Learning FastAI and exploring AI integrations for real-world tools
