@@ -12,7 +12,7 @@ I love creating tools that make life easier — especially for real-world users.
 - Learning how to lead, build, and solve actual problems
 
 ### 🌐 My Website & Projects
-📬 [johnmichealacera.vercel.app](https://johnmichealacera.vercel.app)
+📬 [https://johnmichealacera.vercel.app](https://www.johnmichealacera.com/)
 
 ---
 
