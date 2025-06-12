@@ -1,19 +1,82 @@
 # 👋 Hi, I'm John Micheal Acera
 
-I'm a **Software Developer** and **Builder** from the Philippines 🇵🇭
+I'm a **Software Developer** and **Problem-Solver** from the Philippines 🇵🇭, passionate about building real-world systems that are not just functional — but purposeful. From small passion projects to full-stack platforms, my goal is always the same:
 
-I love creating tools that make life easier — especially for real-world users. My journey started with simple games and todo apps, and has grown into building full-stack systems.
-
-### 🧠 What I’m Working On
-- 🤖 Learning FastAI and exploring AI integrations for real-world tools
-
-### 💡 What I Enjoy
-- Tinkering with both code and hardware
-- Learning how to lead, build, and solve actual problems
-
-### 🌐 My Website & Projects
-📬 [https://www.johnmichealacera.com](https://www.johnmichealacera.com/)
+> "To build things that matter — not just to earn, but to empower."
+> 
 
 ---
 
-> *"I want to build things that matter — not just to earn, but to empower."*
+## 🚀 Currently
+
+🛠️ **Backend Developer at [Sportality.se](https://www.sportality.se/about)**
+
+Helping build scalable APIs and real-time backend systems for sports data platforms.
+
+📚 Learning more about **AI integrations** using FastAI and experimenting with how real-world tools can be made smarter and more intuitive.
+
+🧪 Building tools that solve actual problems, not just toy projects.
+
+---
+
+## 🧠 Skills & Technologies
+
+**Languages**
+
+- JavaScript / TypeScript / Rust / Php / Python
+- HTML / CSS / Bash
+
+**Frameworks & Tools**
+
+- Node.js, Express, MongoDB, MySQL, PostgreSQL, GraphQL, Vite
+- NestJS, Next.js, React, Vue, TailwindCSS, SCSS
+- Docker, Git, Postman, Firebase
+
+**Others**
+
+- RESTful API Design
+- GraphQL Integration
+- Database modeling & performance tuning
+- CI/CD workflows
+- Linux system setup and administration
+
+---
+
+## 🧩 Selected Projects
+
+- 🔐 [**SkillMatch**](https://github.com/johnmichealacera/skillmatch)
+    
+    Platform for hiring local skilled workers like carpenters, welders, and farmers.
+    
+- 🧭 [**Personal Portfolio Website**](https://www.johnmichealacera.com/)
+    
+   Built with Next.js, designed for clarity, purpose, and SEO optimization.
+    
+- 🕹️ [**Soroy sa Socorro**](https://soroy-sa-socorro.onrender.com/)
+    
+    A tourism site showcasing the barangays, delicacies, and destinations of Socorro Island.
+    
+
+---
+
+## 🌍 Let's Connect
+
+- 🌐 Website: [johnmichealacera.com](https://www.johnmichealacera.com/)
+- 📫 Email: [jm@johnmichealacera.com](mailto:jm@johnmichealacera.com)
+- 🧳 LinkedIn: [*MY profile!*](https://www.linkedin.com/in/johnmichealacera/)
+
+---
+
+## 📊 GitHub Stats
+
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnmichealacera&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmichealacera&layout=compact&theme=radical)
+
+---
+
+### ✨ A Personal Note
+
+I’m here not just to code, but to **grow with intention** — to build tools that serve others, learn deeply, and share what I’ve learned along the way.
+
+If you’ve ever felt late to the party in tech — I’ve been there too. Let’s keep showing up anyway. 🌱
