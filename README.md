@@ -9,7 +9,7 @@ I'm a **Software Developer** and **Problem-Solver** from the Philippines 🇵�
 
 ## 🚀 Currently
 
-🛠️ **Backend Developer at [Sportality.se](https://www.sportality.se/about)**
+🛠️ **Backend Developer at [Sportality](https://www.sportality.se/about)**
 
 Helping build scalable APIs and real-time backend systems for sports data platforms.
 
@@ -44,19 +44,17 @@ Helping build scalable APIs and real-time backend systems for sports data platfo
 
 ## 🧩 Selected Projects
 
-- 🔐 [**SkillMatch**](https://github.com/johnmichealacera/skillmatch)
+- 🔐 [**SkillMatch**](https://skill-match-five.vercel.app/)
     
     Platform for hiring local skilled workers like carpenters, welders, and farmers.
     
 - 🧭 [**Personal Portfolio Website**](https://www.johnmichealacera.com/)
     
-   Built with Next.js, designed for clarity, purpose, and SEO optimization.
+   My personal website to showcase my personal information, skills, life story and projects
     
-- 🕹️ [**Soroy sa Socorro**](https://soroy-sa-socorro.onrender.com/)
+- 🕹️ [**CSS NC2 Companion**](https://www.learncssnc2.academy/)
     
-    A tourism site showcasing the barangays, delicacies, and destinations of Socorro Island.
-    
-
+    A comprehensive web application designed to help students and professionals master Computer Systems Servicing and prepare for TESDA NC II certification.
 ---
 
 ## 🌍 Let's Connect
